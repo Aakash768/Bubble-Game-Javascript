@@ -7,7 +7,7 @@ An interactive bubble shooting game built with HTML, CSS, and JavaScript. The go
 - **Interactive Gameplay**: Hit the correct number in the bubble and earn points.
 - **Scoring System**: +10 points for each correct hit.
 - **Timer**: Race against time to score the highest points.
-- **Responsive Design**: Works across multiple devices and screen sizes.
+
 
 ## 🕹️ How to Play
 
