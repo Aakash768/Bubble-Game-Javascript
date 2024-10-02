@@ -30,4 +30,4 @@ An interactive bubble shooting game built with HTML, CSS, and JavaScript. The go
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bubble-game.git
+   git clone https://github.com/Aakash768/Bubble-Game-Javascript/
